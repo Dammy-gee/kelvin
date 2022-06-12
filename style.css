@@ -1,0 +1,199 @@
+.navbar {
+  display: flex;
+  background-color: rgb(40, 47, 64);
+}
+body {
+  background-color: rgb(40, 47, 64);
+}
+.logo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fff;
+  padding-left: 9rem;
+}
+.home {
+  font-weight: 300;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 32rem;
+}
+.about {
+  font-weight: 300;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3rem;
+}
+.project {
+  font-weight: 300;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3rem;
+}
+.contact {
+  font-weight: 300;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3rem;
+}
+h1 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 9rem;
+  line-height: 11px;
+  padding-top: 5rem;
+}
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  padding-left: 9rem;
+  color: #9eabcf;
+}
+.icon {
+  display: flex;
+}
+.beh {
+  padding-left: 9rem;
+}
+.dri {
+  padding-left: 1rem;
+}
+.lin {
+  padding-left: 1rem;
+}
+.twe {
+  padding-left: 1rem;
+}
+.image {
+  display: flex;
+}
+.cof {
+  width: 30rem;
+  height: 22rem;
+  margin-left: 9rem;
+  padding-top: 10rem;
+}
+h2 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 9rem;
+  line-height: 11px;
+}
+.ecom {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 9rem;
+}
+.vie {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  padding-left: 9rem;
+  color: #9eabcf;
+  font-weight: 700;
+  padding-bottom: 5rem;
+}
+.pho {
+  width: 32rem;
+  height: 28rem;
+  margin-left: 9rem;
+  padding-top: 7rem;
+}
+.arr {
+  display: flex;
+}
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 9rem;
+  padding-top: 1rem;
+}
+
+.dow {
+  display: flex;
+  background-color: #e2e2e2;
+}
+.let {
+  color: black;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  padding-left: 20rem;
+}
+.section1:hover {
+  background-color: yellow;
+}
+.day {
+  padding-left: 20rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section2 {
+  width: 40%;
+}
+.section2:hover {
+  background-color: blue;
+}
+.domain {
+  color: #9eabcf;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  padding-left: 20rem;
+  font-weight: 700;
+}
+
+.foot {
+  color: #829fad;
+  padding-left: 2rem;
+}
+footer {
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 7rem;
+}
+.fb {
+  padding-left: 30rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.tweet {
+  padding-left: 1rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.instagram {
+  padding-left: 1rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.behance {
+  padding-left: 1rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.dribble {
+  padding-left: 1rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.linkedin {
+  padding-left: 1rem;
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+  padding-top: 1rem;
+}
+a {
+  text-decoration: none;
+}
